@@ -4,4 +4,5 @@ Right now, I'm sharpening my SQL skills by exploring interesting public datasets
 Thanks for stopping by — feel free to explore my repositories below!
 
 ## Table of Contents
-* About
+* Portfolio Projects
+  * E-Commerce
