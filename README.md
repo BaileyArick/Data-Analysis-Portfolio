@@ -5,6 +5,6 @@ Right now, I'm sharpening my SQL skills by exploring interesting public datasets
 Thanks for stopping by — feel free to explore my repositories below!
 
 ## Table of Contents
-* [About](https://github.com/BaileyArick/Data-Analysis-Portfolio/blob/master/README.md#hi-im-bailey-arick-)
+* [About](https://github.com/BaileyArick/Data-Analysis-Portfolio/blob/master/README.md#about)
 * Portfolio Projects
   * E-Commerce
