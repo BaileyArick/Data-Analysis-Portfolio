@@ -1,4 +1,11 @@
-# Data-Analysis-Portfolio
-Hi my name is Bailey Arick! I have a bachelor's degree in Computer Science and a background in IT but most recently have discovered a passion in Data Analytics. Over that time period, I have focused my skills on Microsoft Excel, SQL, and Tableau. I have programmed in Python before but not in an analytical approach (hoping to incorporate that soon!). 
-Currently in my free time, I like to extend my knowledge in SQL and find interesting datasets to test that knowledge.
-Thanks for taking the time to look at this repository!
+### Hi, I'm Bailey Arick 👋
+
+🎓 B.S. in Computer Science | Background in IT | Currently focused on **Data Analytics**
+
+- 🔧 **Core tools:** SQL, Microsoft Excel, Tableau
+- 🐍 **Also know:** Python (currently leveling up to use it analytically — pandas, cleaning, automation)
+- 📚 **Currently learning:** Working through the Google Data Analytics Certificate
+- 💡 **Practice habit:** Finding interesting public datasets to sharpen my SQL skills
+- 🎯 **Looking ahead:** Exploring data engineering as a next step
+
+Thanks for checking out my repo — take a look around!
